@@ -2,6 +2,6 @@
 Contributions to free and open source projects.
 
 - <a href="https://streamlit.io/">Streamlit</a>
-  - (by myself) corrected <a href="https://github.com/axelcarapinha/streamlit/tree/fix-bug-10115">input bug</a> for some password managers (Dashlane, ...)
-  - (with <a href="https://github.com/w-userc">Liedson Cunha</a>) implemented two features (in progress...)
+  - corrected <a href="https://github.com/axelcarapinha/streamlit/tree/fix-bug-10115">input bug</a> for some password managers (Dashlane, ...)
+  - implemented <a href="https://github.com/streamlit/streamlit/pull/11579">short flag aliases</a> for common operations
 - _To be continued_
